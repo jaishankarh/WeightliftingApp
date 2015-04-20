@@ -1,0 +1,13 @@
+check all validations
+
+on delete cascade for competition and coefficients not working
+
+competition update not there, that is to update coefficients and all -- wondering if this is required----
+
+filter functionality in resultswindow and printcompetition not working fully -- wondering if this is required----
+
+remove and add the group field in the lift table --this is required---
+
+proper values not present can cause whole program to break, especially when inputting values from import, like gender missing etc- --should add dialogs to get these values...and enforce validations ---
+
+add a quick import from file... that will quickly and cleverly import competition results
